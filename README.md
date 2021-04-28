@@ -6,13 +6,23 @@
 # Documentation
 *The 'char();'-action stores the respective unicode of an integer value (2nd parameter) within a string variable (first parameter, or return value).*
 
-
+## Added Actions
 ><p>char(&char,167);</p>
 ><p>&char = char(167);</p>
 
+## Added Environmental Variables
+><p>// Returns 'True' if the module has been installed and loaded correctly.</p>
+><p>%MODULECHARICE%</p>  
+>
+><p>// Shortcut for the 'paragraph'-character ('char(167);').</p>
+><p>%P%</p>
 
-><p>// Returns 'true' if the module has been installed and loaded correctly.</p>
-><p>%MODULECHARICE%;</p>  
+><p>// Returns a single dollar-character ('$').</p>
+><p>%DOLLAR%</p>
+
+><p>// Returns two dollar-chracters ('$$').</p>
+><p>%DOLLARS%</p>
+
 
 
 
