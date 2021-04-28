@@ -10,6 +10,7 @@
 ><p>char(&char,167);</p>
 ><p>&char = char(167);</p>
 
+
 ><p>// Returns 'true' if the module has been installed and loaded correctly.</p>
 ><p>%MODULECHARICE%;</p>  
 
