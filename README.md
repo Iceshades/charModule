@@ -5,7 +5,7 @@
 
 ###### Place the '.jar'-file of this module in the directory '.minecraft/liteconfig/common/macros' to inject the corresponding actions into your JVM at the start of the game.
 
-# Documentation
+# __Documentation__
 ###### The 'char();'-action stores the respective unicode of an integer value (2nd parameter) within a string variable (first parameter, or return value).
 
 ## char(&char,167);
