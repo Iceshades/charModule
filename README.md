@@ -7,8 +7,8 @@
 *The 'char();'-action stores the respective unicode of an integer value (2nd parameter) within a string variable (first parameter, or return value).*
 
 ## Added Actions
-><p>char(&char,167);</p>
-><p>&char = char(167);</p>
+><p>char(&str,<intCharValue>);</p>
+><p>&str = char(<intCharValue>);</p>
 
 ## Added Environmental Variables
 ><p>// Returns 'True' if the module has been installed and loaded correctly.</p>
